@@ -1,10 +1,10 @@
-# aqua Cloud — Release Downloads
+# aqua Cloud — Claude Desktop Extension
 
 Official download page for the [aqua Cloud](https://www.aqua-cloud.io/) **Claude Desktop extension**.
 
 ## Claude Desktop extension (`aqua.mcpb`)
 
-**[⬇ Download the latest aqua.mcpb](https://github.com/aqua-cloud-gmbh/aqua-releases/releases/latest/download/aqua.mcpb)**
+**[⬇ Download the latest aqua.mcpb](https://github.com/aqua-cloud-gmbh/aqua-mcp-desktop-extension/releases/latest/download/aqua.mcpb)**
 
 Install: double-click the downloaded file, or drag it into **Claude Desktop → Settings → Extensions**, then enter your aqua URL and credentials when prompted.
 
